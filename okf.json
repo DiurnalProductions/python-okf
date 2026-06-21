@@ -1,0 +1,8 @@
+{
+  "id": "python-okf",
+  "name": "Python Knowledge Pack",
+  "version": "0.1",
+  "description": "OKF knowledge base for Python 3 (runtime model, data model, async, typing, modules, ecosystem)",
+  "entry": "index.md",
+  "tags": ["python", "programming", "async", "oop", "data-model", "scripting"]
+}
