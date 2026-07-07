@@ -1,16 +1,15 @@
 ---
-id: python.dynamic_typing
-type: concept
+type: Concept
 title: Dynamic Typing
-description: Object types are determined at runtime; names carry no static type.
+description: "Object types are determined at runtime; names carry no static type."
 tags: [python, typing, runtime, dynamic]
 prerequisites:
-  - python.variables
-  - python.references
+  - concepts/variables
+  - concepts/references
 related:
-  - python.type_hints
-  - python.runtime_vs_static_typing
-resource: https://docs.python.org/3/glossary.html#term-dynamic-typing
+  - concepts/type_hints
+  - concepts/runtime_vs_static_typing
+resource: "https://docs.python.org/3/glossary.html#term-dynamic-typing"
 timestamp: 2026-01-01
 ---
 

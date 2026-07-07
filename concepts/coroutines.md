@@ -1,17 +1,16 @@
 ---
-id: python.coroutines
-type: concept
+type: Concept
 title: Coroutines
 description: Native coroutine objects created by async def suspend on await.
 tags: [python, async, coroutines, await]
 prerequisites:
-  - python.event_loop
-  - python.functions_as_objects
+  - concepts/event_loop
+  - concepts/functions_as_objects
 related:
-  - python.asyncio_basics
-  - python.await_async_lifecycle
-  - python.generators
-resource: https://docs.python.org/3/glossary.html#term-coroutine
+  - concepts/asyncio_basics
+  - concepts/await_async_lifecycle
+  - concepts/generators
+resource: "https://docs.python.org/3/glossary.html#term-coroutine"
 timestamp: 2026-01-01
 ---
 

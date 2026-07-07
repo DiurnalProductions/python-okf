@@ -1,17 +1,16 @@
 ---
-id: python.classes
-type: concept
+type: Concept
 title: Classes
 description: Classes are callable objects that construct instances and define shared behavior.
 tags: [python, oop, classes, instances]
 prerequisites:
-  - python.functions_as_objects
-  - python.mutability_immutability
+  - concepts/functions_as_objects
+  - concepts/mutability_immutability
 related:
-  - python.inheritance
-  - python.dunder_methods
-  - python.data_model_fundamentals
-resource: https://docs.python.org/3/tutorial/classes.html
+  - concepts/inheritance
+  - concepts/dunder_methods
+  - concepts/data_model_fundamentals
+resource: "https://docs.python.org/3/tutorial/classes.html"
 timestamp: 2026-01-01
 ---
 

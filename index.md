@@ -1,3 +1,12 @@
+---
+okf_version: "0.1"
+id: python-okf
+name: Python Knowledge Pack
+version: "0.1"
+description: "OKF knowledge base for Python 3 (runtime model, data model, async, typing, modules, ecosystem)"
+tags: [python, programming, async, oop, data-model, scripting]
+---
+
 # Python Knowledge Pack
 
 A graph-based OKF knowledge bundle for modern Python (3.10+). This pack treats Python as a **dynamic object reference system**: names bind to objects at runtime, behavior emerges from the object model, and syntax is the surface over a strongly structured interpreter.

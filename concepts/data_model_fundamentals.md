@@ -1,16 +1,15 @@
 ---
-id: python.data_model_fundamentals
-type: concept
+type: Concept
 title: Data Model Fundamentals
-description: Python's object protocol unifies builtins, operators, and user-defined types.
+description: "Python's object protocol unifies builtins, operators, and user-defined types."
 tags: [python, oop, data-model, protocol]
 prerequisites:
-  - python.dunder_methods
-  - python.object_identity_equality
+  - concepts/dunder_methods
+  - concepts/object_identity_equality
 related:
-  - python.iteration_protocol
-  - python.collections
-resource: https://docs.python.org/3/reference/datamodel.html
+  - concepts/iteration_protocol
+  - concepts/collections
+resource: "https://docs.python.org/3/reference/datamodel.html"
 timestamp: 2026-01-01
 ---
 

@@ -1,15 +1,14 @@
 ---
-id: python.mro
-type: concept
+type: Concept
 title: Method Resolution Order (MRO)
 description: C3 linearization determines the deterministic order for attribute lookup.
 tags: [python, oop, mro, inheritance]
 prerequisites:
-  - python.inheritance
+  - concepts/inheritance
 related:
-  - python.dunder_methods
-  - python.classes
-resource: https://docs.python.org/3/glossary.html#term-method-resolution-order
+  - concepts/dunder_methods
+  - concepts/classes
+resource: "https://docs.python.org/3/glossary.html#term-method-resolution-order"
 timestamp: 2026-01-01
 ---
 

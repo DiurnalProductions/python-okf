@@ -1,15 +1,14 @@
 ---
-id: python.await_async_lifecycle
-type: concept
+type: Concept
 title: await and async Lifecycle
 description: How await suspends coroutines and resumes them when awaitables complete.
 tags: [python, async, await, lifecycle]
 prerequisites:
-  - python.asyncio_basics
-  - python.coroutines
+  - concepts/asyncio_basics
+  - concepts/coroutines
 related:
-  - python.event_loop
-resource: https://docs.python.org/3/reference/expressions.html#await-expression
+  - concepts/event_loop
+resource: "https://docs.python.org/3/reference/expressions.html#await-expression"
 timestamp: 2026-01-01
 ---
 

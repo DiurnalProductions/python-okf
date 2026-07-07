@@ -1,16 +1,15 @@
 ---
-id: python.references
-type: concept
+type: Concept
 title: References
-description: Assignment and argument passing share object references, not copies.
+description: "Assignment and argument passing share object references, not copies."
 tags: [python, runtime, references, aliasing]
 prerequisites:
-  - python.variables
+  - concepts/variables
 related:
-  - python.mutability_immutability
-  - python.object_identity_equality
-  - python.functions_as_objects
-resource: https://docs.python.org/3/faq/programming.html#how-do-i-write-a-function-that-returns-a-reference-to-a-variable
+  - concepts/mutability_immutability
+  - concepts/object_identity_equality
+  - concepts/functions_as_objects
+resource: "https://docs.python.org/3/faq/programming.html#how-do-i-write-a-function-that-returns-a-reference-to-a-variable"
 timestamp: 2026-01-01
 ---
 

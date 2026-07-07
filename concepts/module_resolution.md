@@ -1,16 +1,15 @@
 ---
-id: python.module_resolution
-type: concept
+type: Concept
 title: Module Resolution
 description: Finders and loaders locate modules using sys.path and import hooks.
 tags: [python, imports, sys-path, importlib]
 prerequisites:
-  - python.imports
-  - python.modules
+  - concepts/imports
+  - concepts/modules
 related:
-  - python.virtual_environments
-  - python.pip_packaging
-resource: https://docs.python.org/3/reference/import.html#the-import-system
+  - concepts/virtual_environments
+  - concepts/pip_packaging
+resource: "https://docs.python.org/3/reference/import.html#the-import-system"
 timestamp: 2026-01-01
 ---
 

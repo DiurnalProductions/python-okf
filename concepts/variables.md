@@ -1,15 +1,13 @@
 ---
-id: python.variables
-type: concept
+type: Concept
 title: Variables and Names
-description: Names in Python are bindings to objects, not typed storage slots.
+description: "Names in Python are bindings to objects, not typed storage slots."
 tags: [python, runtime, names, binding]
-prerequisites: []
 related:
-  - python.references
-  - python.dynamic_typing
-  - python.scope_legb
-resource: https://docs.python.org/3/tutorial/introduction.html
+  - concepts/references
+  - concepts/dynamic_typing
+  - concepts/scope_legb
+resource: "https://docs.python.org/3/tutorial/introduction.html"
 timestamp: 2026-01-01
 ---
 

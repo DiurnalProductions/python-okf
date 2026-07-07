@@ -1,16 +1,15 @@
 ---
-id: python.dunder_methods
-type: concept
+type: Concept
 title: Dunder Methods
 description: Double-underscore hooks customize how objects participate in Python protocols.
 tags: [python, oop, dunder, magic-methods]
 prerequisites:
-  - python.classes
+  - concepts/classes
 related:
-  - python.data_model_fundamentals
-  - python.iteration_protocol
-  - python.object_identity_equality
-resource: https://docs.python.org/3/reference/datamodel.html#special-method-names
+  - concepts/data_model_fundamentals
+  - concepts/iteration_protocol
+  - concepts/object_identity_equality
+resource: "https://docs.python.org/3/reference/datamodel.html#special-method-names"
 timestamp: 2026-01-01
 ---
 

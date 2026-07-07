@@ -1,16 +1,15 @@
 ---
-id: python.generators
-type: concept
+type: Concept
 title: Generators
-description: Generator functions suspend execution, yielding values via frozen frames.
+description: "Generator functions suspend execution, yielding values via frozen frames."
 tags: [python, generators, iteration, lazy]
 prerequisites:
-  - python.iteration_protocol
-  - python.functions_as_objects
+  - concepts/iteration_protocol
+  - concepts/functions_as_objects
 related:
-  - python.closures
-  - python.coroutines
-resource: https://docs.python.org/3/tutorial/classes.html#generators
+  - concepts/closures
+  - concepts/coroutines
+resource: "https://docs.python.org/3/tutorial/classes.html#generators"
 timestamp: 2026-01-01
 ---
 

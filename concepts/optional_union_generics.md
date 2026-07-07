@@ -1,15 +1,14 @@
 ---
-id: python.optional_union_generics
-type: concept
-title: Optional, Union, and Generics
-description: Express nullable, alternates, and parameterized types for checkers.
+type: Concept
+title: "Optional, Union, and Generics"
+description: "Express nullable, alternates, and parameterized types for checkers."
 tags: [python, typing, union, optional, generics]
 prerequisites:
-  - python.typing_module
+  - concepts/typing_module
 related:
-  - python.type_hints
-  - python.classes
-resource: https://docs.python.org/3/library/typing.html#typing.Union
+  - concepts/type_hints
+  - concepts/classes
+resource: "https://docs.python.org/3/library/typing.html#typing.Union"
 timestamp: 2026-01-01
 ---
 

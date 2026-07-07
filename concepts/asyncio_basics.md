@@ -1,15 +1,14 @@
 ---
-id: python.asyncio_basics
-type: concept
+type: Concept
 title: asyncio Basics
-description: Stdlib framework for event loops, tasks, futures, and async I/O.
+description: "Stdlib framework for event loops, tasks, futures, and async I/O."
 tags: [python, async, asyncio, tasks]
 prerequisites:
-  - python.coroutines
-  - python.event_loop
+  - concepts/coroutines
+  - concepts/event_loop
 related:
-  - python.await_async_lifecycle
-resource: https://docs.python.org/3/library/asyncio.html
+  - concepts/await_async_lifecycle
+resource: "https://docs.python.org/3/library/asyncio.html"
 timestamp: 2026-01-01
 ---
 

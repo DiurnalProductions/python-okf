@@ -1,16 +1,15 @@
 ---
-id: python.decorators
-type: concept
+type: Concept
 title: Decorators
-description: @syntax applies a callable to a function or class at definition time.
+description: "@syntax applies a callable to a function or class at definition time."
 tags: [python, functions, decorators, syntax]
 prerequisites:
-  - python.functions_as_objects
-  - python.closures
+  - concepts/functions_as_objects
+  - concepts/closures
 related:
-  - python.classes
-  - python.type_hints
-resource: https://docs.python.org/3/glossary.html#term-decorator
+  - concepts/classes
+  - concepts/type_hints
+resource: "https://docs.python.org/3/glossary.html#term-decorator"
 timestamp: 2026-01-01
 ---
 

@@ -1,16 +1,15 @@
 ---
-id: python.collections
-type: concept
+type: Concept
 title: Collections
-description: Lists, dicts, sets, and tuples are optimized mutable and immutable containers.
+description: "Lists, dicts, sets, and tuples are optimized mutable and immutable containers."
 tags: [python, data-structures, list, dict, set, tuple]
 prerequisites:
-  - python.mutability_immutability
-  - python.references
+  - concepts/mutability_immutability
+  - concepts/references
 related:
-  - python.iteration_protocol
-  - python.data_model_fundamentals
-resource: https://docs.python.org/3/tutorial/datastructures.html
+  - concepts/iteration_protocol
+  - concepts/data_model_fundamentals
+resource: "https://docs.python.org/3/tutorial/datastructures.html"
 timestamp: 2026-01-01
 ---
 

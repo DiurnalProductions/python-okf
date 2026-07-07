@@ -1,16 +1,15 @@
 ---
-id: python.closures
-type: concept
+type: Concept
 title: Closures
 description: Inner functions that retain references to enclosing bindings via cells.
 tags: [python, functions, closures, nested]
 prerequisites:
-  - python.functions_as_objects
-  - python.scope_legb
+  - concepts/functions_as_objects
+  - concepts/scope_legb
 related:
-  - python.decorators
-  - python.generators
-resource: https://docs.python.org/3/faq/programming.html#what-are-closures
+  - concepts/decorators
+  - concepts/generators
+resource: "https://docs.python.org/3/faq/programming.html#what-are-closures"
 timestamp: 2026-01-01
 ---
 

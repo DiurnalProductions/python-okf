@@ -1,15 +1,14 @@
 ---
-id: python.pip_packaging
-type: concept
+type: Concept
 title: pip and Packaging
-description: pip installs distributions into environments; pyproject.toml defines builds.
+description: "pip installs distributions into environments; pyproject.toml defines builds."
 tags: [python, pip, packaging, pypi]
 prerequisites:
-  - python.virtual_environments
-  - python.modules
+  - concepts/virtual_environments
+  - concepts/modules
 related:
-  - python.module_resolution
-resource: https://docs.python.org/3/installing/index.html
+  - concepts/module_resolution
+resource: "https://docs.python.org/3/installing/index.html"
 timestamp: 2026-01-01
 ---
 

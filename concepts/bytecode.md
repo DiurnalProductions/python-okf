@@ -1,15 +1,14 @@
 ---
-id: python.bytecode
-type: concept
+type: Concept
 title: Bytecode
 description: Compiled stack instructions that the CPython eval loop executes.
 tags: [python, runtime, bytecode, compiler]
 prerequisites:
-  - python.interpreter_model
+  - concepts/interpreter_model
 related:
-  - python.function_execution_lifecycle
-  - python.scope_legb
-resource: https://docs.python.org/3/library/dis.html
+  - concepts/function_execution_lifecycle
+  - concepts/scope_legb
+resource: "https://docs.python.org/3/library/dis.html"
 timestamp: 2026-01-01
 ---
 

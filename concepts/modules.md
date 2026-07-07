@@ -1,16 +1,15 @@
 ---
-id: python.modules
-type: concept
+type: Concept
 title: Modules
 description: Modules are namespace objects loaded from .py files or extension modules.
 tags: [python, modules, namespace, import-system]
 prerequisites:
-  - python.interpreter_model
+  - concepts/interpreter_model
 related:
-  - python.imports
-  - python.module_resolution
-  - python.virtual_environments
-resource: https://docs.python.org/3/tutorial/modules.html
+  - concepts/imports
+  - concepts/module_resolution
+  - concepts/virtual_environments
+resource: "https://docs.python.org/3/tutorial/modules.html"
 timestamp: 2026-01-01
 ---
 

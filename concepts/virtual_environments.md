@@ -1,15 +1,14 @@
 ---
-id: python.virtual_environments
-type: concept
+type: Concept
 title: Virtual Environments
 description: Isolated Python environments with separate site-packages and executables.
 tags: [python, venv, environment, isolation]
 prerequisites:
-  - python.modules
+  - concepts/modules
 related:
-  - python.pip_packaging
-  - python.module_resolution
-resource: https://docs.python.org/3/library/venv.html
+  - concepts/pip_packaging
+  - concepts/module_resolution
+resource: "https://docs.python.org/3/library/venv.html"
 timestamp: 2026-01-01
 ---
 

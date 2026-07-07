@@ -1,16 +1,15 @@
 ---
-id: python.mutability_immutability
-type: concept
+type: Concept
 title: Mutability and Immutability
-description: Mutable objects change in place; immutable objects require rebinding.
+description: "Mutable objects change in place; immutable objects require rebinding."
 tags: [python, runtime, mutability, immutability]
 prerequisites:
-  - python.references
+  - concepts/references
 related:
-  - python.object_identity_equality
-  - python.collections
-  - python.classes
-resource: https://docs.python.org/3/glossary.html#term-mutable
+  - concepts/object_identity_equality
+  - concepts/collections
+  - concepts/classes
+resource: "https://docs.python.org/3/glossary.html#term-mutable"
 timestamp: 2026-01-01
 ---
 

@@ -1,21 +1,20 @@
 ---
-id: python.typing_module
-type: concept
+type: Concept
 title: The typing Module
 description: Composable type constructors for static analysis and documentation.
 tags: [python, typing, generics, protocols]
 prerequisites:
-  - python.type_hints
+  - concepts/type_hints
 related:
-  - python.optional_union_generics
-  - python.runtime_vs_static_typing
-resource: https://docs.python.org/3/library/typing.html
-timestamp: 2026-01-01
+  - concepts/optional_union_generics
+  - concepts/runtime_vs_static_typing
+resource: "https://docs.python.org/3/library/typing.html"
+timestamp: 2026-07-06
 ---
 
 # Summary
 
-The **`typing`** module supplies types that do not always exist as runtime classes in older versions: `Protocol`, `TypedDict`, `TypeVar`, `Callable`, `Literal`, `Final`, and more. These exist primarily for **type checkers**, though some have runtime behavior (e.g., `TypedDict` is a dict subclass helper).
+The **`typing`** module supplies types that do not always exist as runtime classes in older versions: `Protocol`, `TypedDict`, `TypeVar`, `Callable`, `Literal`, `Final`, and more. These exist primarily for **type checkers**, though some have runtime behavior (e.g., `TypedDict` is a dict subclass helper). Python 3.12 (PEP 695) added native generic syntax — `def first[T](items: list[T]) -> T` and `class Stack[T]:` — which replaces most explicit `TypeVar` declarations in new code.
 
 # Mental model
 

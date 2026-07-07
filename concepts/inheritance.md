@@ -1,15 +1,14 @@
 ---
-id: python.inheritance
-type: concept
+type: Concept
 title: Inheritance
-description: Subclasses extend superclasses; attribute lookup walks the MRO chain.
+description: "Subclasses extend superclasses; attribute lookup walks the MRO chain."
 tags: [python, oop, inheritance, subclass]
 prerequisites:
-  - python.classes
+  - concepts/classes
 related:
-  - python.mro
-  - python.dunder_methods
-resource: https://docs.python.org/3/tutorial/classes.html#inheritance
+  - concepts/mro
+  - concepts/dunder_methods
+resource: "https://docs.python.org/3/tutorial/classes.html#inheritance"
 timestamp: 2026-01-01
 ---
 

@@ -1,15 +1,14 @@
 ---
-id: python.event_loop
-type: concept
+type: Concept
 title: The Event Loop
 description: Cooperative scheduler that runs coroutines until they await I/O or timers.
 tags: [python, async, event-loop, concurrency]
 prerequisites:
-  - python.interpreter_model
+  - concepts/interpreter_model
 related:
-  - python.coroutines
-  - python.asyncio_basics
-resource: https://docs.python.org/3/library/asyncio-eventloop.html
+  - concepts/coroutines
+  - concepts/asyncio_basics
+resource: "https://docs.python.org/3/library/asyncio-eventloop.html"
 timestamp: 2026-01-01
 ---
 

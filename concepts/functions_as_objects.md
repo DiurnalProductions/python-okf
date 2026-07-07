@@ -1,17 +1,16 @@
 ---
-id: python.functions_as_objects
-type: concept
+type: Concept
 title: Functions as Objects
 description: Functions are first-class objects with attributes and callable behavior.
 tags: [python, functions, first-class, callable]
 prerequisites:
-  - python.references
-  - python.function_execution_lifecycle
+  - concepts/references
+  - concepts/function_execution_lifecycle
 related:
-  - python.closures
-  - python.decorators
-  - python.classes
-resource: https://docs.python.org/3/tutorial/controlflow.html#defining-functions
+  - concepts/closures
+  - concepts/decorators
+  - concepts/classes
+resource: "https://docs.python.org/3/tutorial/controlflow.html#defining-functions"
 timestamp: 2026-01-01
 ---
 

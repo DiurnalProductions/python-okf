@@ -1,16 +1,15 @@
 ---
-id: python.object_identity_equality
-type: concept
+type: Concept
 title: Object Identity vs Equality
-description: `is` tests object identity; `==` tests value equality via __eq__.
+description: "`is` tests object identity; `==` tests value equality via __eq__."
 tags: [python, runtime, identity, equality]
 prerequisites:
-  - python.references
+  - concepts/references
 related:
-  - python.mutability_immutability
-  - python.dunder_methods
-  - python.data_model_fundamentals
-resource: https://docs.python.org/3/faq/programming.html#how-do-i-check-if-two-objects-are-the-same
+  - concepts/mutability_immutability
+  - concepts/dunder_methods
+  - concepts/data_model_fundamentals
+resource: "https://docs.python.org/3/faq/programming.html#how-do-i-check-if-two-objects-are-the-same"
 timestamp: 2026-01-01
 ---
 

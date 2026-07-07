@@ -1,15 +1,14 @@
 ---
-id: python.runtime_vs_static_typing
-type: concept
+type: Concept
 title: Runtime vs Static Typing
-description: Python enforces types at operation time; checkers analyze annotations separately.
+description: "Python enforces types at operation time; checkers analyze annotations separately."
 tags: [python, typing, runtime, static-analysis]
 prerequisites:
-  - python.type_hints
-  - python.dynamic_typing
+  - concepts/type_hints
+  - concepts/dynamic_typing
 related:
-  - python.typing_module
-resource: https://docs.python.org/3/library/typing.html#module-contents
+  - concepts/typing_module
+resource: "https://docs.python.org/3/library/typing.html#module-contents"
 timestamp: 2026-01-01
 ---
 

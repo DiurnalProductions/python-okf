@@ -1,16 +1,15 @@
 ---
-id: python.iteration_protocol
-type: concept
+type: Concept
 title: The Iteration Protocol
-description: Iterables expose __iter__; iterators expose __next__ until StopIteration.
+description: "Iterables expose __iter__; iterators expose __next__ until StopIteration."
 tags: [python, iteration, protocol, iterator]
 prerequisites:
-  - python.collections
-  - python.dunder_methods
+  - concepts/collections
+  - concepts/dunder_methods
 related:
-  - python.generators
-  - python.data_model_fundamentals
-resource: https://docs.python.org/3/tutorial/classes.html#iterators
+  - concepts/generators
+  - concepts/data_model_fundamentals
+resource: "https://docs.python.org/3/tutorial/classes.html#iterators"
 timestamp: 2026-01-01
 ---
 

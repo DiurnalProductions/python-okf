@@ -1,16 +1,14 @@
 ---
-id: python.interpreter_model
-type: concept
+type: Concept
 title: The Interpreter Model
 description: CPython compiles source to bytecode and executes it on a stack-based VM.
 tags: [python, runtime, interpreter, cpython]
-prerequisites: []
 related:
-  - python.bytecode
-  - python.function_execution_lifecycle
-  - python.modules
-  - python.event_loop
-resource: https://docs.python.org/3/reference/executionmodel.html
+  - concepts/bytecode
+  - concepts/function_execution_lifecycle
+  - concepts/modules
+  - concepts/event_loop
+resource: "https://docs.python.org/3/reference/executionmodel.html"
 timestamp: 2026-01-01
 ---
 

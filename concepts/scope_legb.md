@@ -1,17 +1,16 @@
 ---
-id: python.scope_legb
-type: concept
+type: Concept
 title: Scope and the LEGB Rule
-description: Name lookup searches Local, Enclosing, Global, then Built-in namespaces.
+description: "Name lookup searches Local, Enclosing, Global, then Built-in namespaces."
 tags: [python, runtime, scope, legb]
 prerequisites:
-  - python.variables
-  - python.references
+  - concepts/variables
+  - concepts/references
 related:
-  - python.closures
-  - python.function_execution_lifecycle
-  - python.imports
-resource: https://docs.python.org/3/tutorial/classes.html#python-scopes-and-namespaces
+  - concepts/closures
+  - concepts/function_execution_lifecycle
+  - concepts/imports
+resource: "https://docs.python.org/3/tutorial/classes.html#python-scopes-and-namespaces"
 timestamp: 2026-01-01
 ---
 

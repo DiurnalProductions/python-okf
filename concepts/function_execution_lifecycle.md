@@ -1,17 +1,16 @@
 ---
-id: python.function_execution_lifecycle
-type: concept
+type: Concept
 title: Function Execution Lifecycle
-description: Calls push frames; returns pop them; objects may outlive their defining frame.
+description: "Calls push frames; returns pop them; objects may outlive their defining frame."
 tags: [python, runtime, functions, frames]
 prerequisites:
-  - python.scope_legb
-  - python.interpreter_model
+  - concepts/scope_legb
+  - concepts/interpreter_model
 related:
-  - python.functions_as_objects
-  - python.closures
-  - python.generators
-resource: https://docs.python.org/3/reference/executionmodel.html#naming-and-binding
+  - concepts/functions_as_objects
+  - concepts/closures
+  - concepts/generators
+resource: "https://docs.python.org/3/reference/executionmodel.html#naming-and-binding"
 timestamp: 2026-01-01
 ---
 

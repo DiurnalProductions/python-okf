@@ -1,15 +1,14 @@
 ---
-id: python.imports
-type: concept
+type: Concept
 title: Imports
 description: Import statements bind names to module objects or their attributes.
 tags: [python, imports, binding, namespace]
 prerequisites:
-  - python.modules
-  - python.scope_legb
+  - concepts/modules
+  - concepts/scope_legb
 related:
-  - python.module_resolution
-resource: https://docs.python.org/3/reference/import.html
+  - concepts/module_resolution
+resource: "https://docs.python.org/3/reference/import.html"
 timestamp: 2026-01-01
 ---
 

@@ -1,16 +1,15 @@
 ---
-id: python.type_hints
-type: concept
+type: Concept
 title: Type Hints
 description: Annotations document expected types without changing runtime behavior.
 tags: [python, typing, annotations, static-analysis]
 prerequisites:
-  - python.dynamic_typing
-  - python.functions_as_objects
+  - concepts/dynamic_typing
+  - concepts/functions_as_objects
 related:
-  - python.typing_module
-  - python.runtime_vs_static_typing
-resource: https://docs.python.org/3/library/typing.html
+  - concepts/typing_module
+  - concepts/runtime_vs_static_typing
+resource: "https://docs.python.org/3/library/typing.html"
 timestamp: 2026-01-01
 ---
 
